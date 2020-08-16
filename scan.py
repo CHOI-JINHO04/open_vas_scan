@@ -1,8 +1,7 @@
 ###########################################
 # /usr/bin/sh
-# made by jackson.choi
-# 2020. 05. 27
-# python Openvas_Scan_Check_version1.py 
+# made by jack
+# python scan.py 
 ###########################################
 
 import re
